@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.my.demo.GitactionTestApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.285 s -- in com.my.demo.GitactionTestApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.764 s -- in com.my.demo.GitactionTestApplicationTests
